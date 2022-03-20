@@ -1,65 +1,35 @@
-![image](/uploads/a731dea501986315250e1d9ab33fe996/image.png)
+## 📚 Seções Portfólios
 
-<h1 align="center">JOBNATION</h1>
+<h4 align="left"><a href="https://github.com/caroolps/Portfolio01">PROJETO 1º SEMESTRE: Mapeador de Criminalidade ao Redor da FATEC</a></h4>
+<h4 align="left"><a href="https://github.com/caroolps/Portfolio02">PROJETO 2º SEMESTRE: Gantt Chart</a></h4>
+<h4 align="left"><a href="https://github.com/caroolps/Portfolio03">PROJETO 3º SEMESTRE: Cadastro Positivo</a></h4>
+<h4 align="left"><a href="https://github.com/caroolps/Portfolio04">PROJETO 4º SEMESTRE: JobNation</a></h4>
+<h4 align="left"><a href="https://github.com/caroolps/Portfolio05">PROJETO 5º SEMESTRE: Educalytics</a></h4>
 
-## Proposta comercial
+![image](https://user-images.githubusercontent.com/61089745/158082449-894548ea-e14d-4de7-896d-12d2a9ec1d74.png)
 
-Desenvolver uma API que possibilita a busca de candidatos a partir de uma vaga, buscando uma contração veloz e assertiva. Dentre os critérios, deverão ser destaques a segurança e o desempenho da aplicação.
+## FATEC & JET SOFT - JOBNATION
 
- Nossa proposta:
- 
+### **I - RESUMO DO PROJETO**:page_facing_up: 
+
+Neste quarto Projeto Integrador a FATEC trouxe o Cliente "JET SOFT" para que pudéssemos achar uma solução tecnológica para sanar e atender às necessidades do cliente.
+Desenvolvendo uma API que possibilita a busca de candidatos a partir de uma vaga, buscando uma contração veloz e assertiva. Dentre os critérios, deverão ser destaques a segurança e o desempenho da aplicação.
+
+
+
+### Proposta:
 - Busca por localização: número de conduções para chegar ao local de trabalho.
 
 - Busca por diferentes critérios: rota(s) de pesquisa estão sendo desenhadas para propiciar liberdade de consulta ao BD. Nesse passo, a aplicação varrerá  currículos já cadastrados e identificará candidato(s)  mais adequados à vaga.
-
-## Descrição do projeto integrador
-
-Baseado no modelo de Aprendizado Por Projeto, nossa equipe trabalha para entregar uma solução operante para uma empresa parceira - Jet Soft - com o apoio do Docente desta instituição de ensino superior.
-
-
-Navegue entre as seções
-=================
-<!--ts-->
-   * [Proposta comercial](#Proposta comercial)
-   * [Descrição do Projeto](#descricao-do-projeto)
-   * [Navegue entre as seções](#navegue-entre-as-secoes)
-   * [Status do projeto Job Nation](#status-do-projeto-job-nation)
-   * [Features](#features)
-   * [Entregas](#entregas)
-   * [Requisitos](#requisitos)
-      * [Funcionais](#funcionais)
-      * [Não Funcionais](#requisitos-nao-funcionais)
-   * [User Stories](#user-stories)
-   * [Diagrama de Casos de Uso](#user-stories)
-   * [Banco de dados: Modelo relacional](#banco-de-dados)
-   * [Banco de dados: Diagrama Lógico](#banco-de-dados)
-   * [Proposta de inovação](#inovation)
-   * [Backlog do projeto](#backlog-do-projeto)
-      * [Sprint 00](#sprint-00)
-      * [Sprint 01](#sprint-01)
-      * [Sprint 02](#sprint-02)
-      * [Sprint 03](#sprint-03)
-      * [Sprint 04](#sprint-04)
-   * [Equipe](#equipe)
-   * [Running it up - Deployment - No seu dispositivo](#running-it-up)
-   * [Ferramentas Tecnologicas](#ferramentas-tecnologicas)
-<!--te-->
-
-## Status do projeto Job Nation 
-
-<h4 align="center"> 
-	SPRINT 04 - 06/JUNHO/2021 = OK; 
-	
-</h4>
 
 ## Features
 
 - [x] 1) DIAGRAMA-BASE JOBNATION
 
-(![image](/uploads/6a6414822f1b7c4077b4e62d6052ee75/image.png)
+![image](https://user-images.githubusercontent.com/61089745/159175589-20bde7c2-7196-4f9b-ab77-7620db50f81d.png)
 
 
-![image](/uploads/13a7f6370fecad7d70911e3c1b645a69/image.png)
+![image](https://user-images.githubusercontent.com/61089745/159175620-99812ced-b8fa-4a51-9afb-0a8d171d8af0.png)
 
 
 
@@ -81,17 +51,16 @@ Navegue entre as seções
 
 - [x]  2) API JOBNATION
 
-![image](/uploads/382f1765869b33897b8220b78573010c/image.png)
+![image](https://user-images.githubusercontent.com/61089745/159175730-a6778694-b968-4db9-802a-b57b7dac2802.png)
 
 - [x] 3) API JOBNATION - NODE-JS - BUSCA QUANTIDADE DE MEIOS DE TRANSPORTES NO GOOGLE MAPS.
 
-![3-NODE-JS-AND-GOOGLE-MAPS-API](/uploads/d700292892ec5b87f522fd0b5d8351f9/1-NODE-JS-AND-GOOGLE-MAPS-API.mp4)
+![image](https://user-images.githubusercontent.com/61089745/159175766-d0d65974-6f41-492b-9c63-979dd9367347.png)
 
-![03-JN-API](/uploads/b8be1ac87ec9fdc6db5cdd8641094e2a/MicrosoftTeams-image__7_.png)
 
 - [x] 4) API JOBNATION - MATCH DE CANDIDATOS (MOST SUITED FOR THE JOB)
 
-![JN-API-MATCH](/uploads/2a223e4711dc9aa2117ff9ef40948f68/MATCH.mp4)
+![image](https://user-images.githubusercontent.com/61089745/159175866-5d9f6cb9-8642-4cb4-9841-87ca9060b7e0.png)
 
 - [x] 5) SEARCH BY VTn
 ![VTN-QUERY](/uploads/f3bb885d18f73907c2f6dbd49281e2a7/VTN-QUERY.mp4)
