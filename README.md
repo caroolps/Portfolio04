@@ -15,9 +15,8 @@
 Neste quarto Projeto Integrador a FATEC trouxe o Cliente "JET SOFT" para que pudéssemos achar uma solução tecnológica para sanar e atender às necessidades do cliente.
 Desenvolvendo uma API que possibilita a busca de candidatos a partir de uma vaga, buscando uma contração veloz e assertiva. Dentre os critérios, deverão ser destaques a segurança e o desempenho da aplicação.
 
-## Requisitos
+#### Requisitos Funcionais:
 
-#### Funcionais
 
 | Requisitos Funcionais                                                  | Código | Prioridade | Sprint |
 |------------------------------------------------------------------------|--------|------------|--------|
@@ -29,8 +28,8 @@ Desenvolvendo uma API que possibilita a busca de candidatos a partir de uma vaga
 | Busca x critérios de uma vaga                            | RF06   | 1          | 4      |
 
 
+#### Requisitos Não Funcionais:
 
-#### Não funcionais
 
 | Requisitos Não Funcionais                            | Código | 
 |------------------------------------------------------|--------|
@@ -45,11 +44,11 @@ Desenvolvendo uma API que possibilita a busca de candidatos a partir de uma vaga
 
 - Busca por diferentes critérios: rota(s) de pesquisa estão sendo desenhadas para propiciar liberdade de consulta ao BD. Nesse passo, a aplicação varrerá  currículos já cadastrados e identificará candidato(s)  mais adequados à vaga.
 
-## Diagrama de Casos de Uso
+#### Diagrama de Casos de Uso
 
 ![image](https://user-images.githubusercontent.com/61089745/159176256-013d0b24-b377-4d74-a132-cef3b569b13c.png)
 
-## Features
+#### Features
 
 **1) DIAGRAMA-BASE JOBNATION**
 
@@ -84,17 +83,15 @@ Desenvolvendo uma API que possibilita a busca de candidatos a partir de uma vaga
 ![image](https://user-images.githubusercontent.com/61089745/159176040-49f7b721-de66-4767-ad12-a715522ef62f.png)
 
 
-
-## Banco de dados
-## Diagrama Entidade-Relacionamento
+#### Diagrama Entidade-Relacionamento
 
 ![image](https://user-images.githubusercontent.com/61089745/159176294-61786526-1747-4945-9dc8-e6a7b0cc23a5.png)
 
-## Diagrama Lógico
+#### Diagrama Lógico
 ![image](https://user-images.githubusercontent.com/61089745/159176313-488a36cc-603c-4de9-9364-7b79a45707e9.png)
 
 
-## Inovation
+#### Inovation
 
 Criamos o 1o BD com benchmarking no LINKEDIN, subsequentemente alterando o protagonismo para a entidade vaga (VACANCY).
 
