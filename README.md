@@ -83,15 +83,15 @@ Desenvolvendo uma API que possibilita a busca de candidatos a partir de uma vaga
 ![image](https://user-images.githubusercontent.com/61089745/159176040-49f7b721-de66-4767-ad12-a715522ef62f.png)
 
 
-#### Diagrama Entidade-Relacionamento
+### Diagrama Entidade-Relacionamento
 
 ![image](https://user-images.githubusercontent.com/61089745/159176294-61786526-1747-4945-9dc8-e6a7b0cc23a5.png)
 
-#### Diagrama Lógico
+### Diagrama Lógico
 ![image](https://user-images.githubusercontent.com/61089745/159176313-488a36cc-603c-4de9-9364-7b79a45707e9.png)
 
 
-#### Inovation
+### Inovation:
 
 Criamos o 1o BD com benchmarking no LINKEDIN, subsequentemente alterando o protagonismo para a entidade vaga (VACANCY).
 
