@@ -8,7 +8,7 @@
 
 ![image](https://user-images.githubusercontent.com/61089745/158082449-894548ea-e14d-4de7-896d-12d2a9ec1d74.png)
 
-## FATEC & JET SOFT - JOBNATION
+## FATEC & JET SOFT - JOBNATION:earth_americas:
 
 ### **I - RESUMO DO PROJETO**:page_facing_up: 
 
@@ -48,7 +48,7 @@ Desenvolvendo uma API que possibilita a busca de candidatos a partir de uma vaga
 
 ![image](https://user-images.githubusercontent.com/61089745/159176256-013d0b24-b377-4d74-a132-cef3b569b13c.png)
 
-#### Features
+#### FEATURES:
 
 **1) DIAGRAMA-BASE JOBNATION**
 
