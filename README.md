@@ -111,6 +111,7 @@ Então, estudamos quais ferramentas servirão aos requisitos (não) funcionais:
 - React (Insomnia/POSTMAN)
 - Git (GitLab)
 - OBS Studio / Kdenlive
+- API Google Maps
 
 ### **III - CONTRIBUIÇÕES INDIVIDUAIS**:bow:
 
