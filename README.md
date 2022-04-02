@@ -106,7 +106,7 @@ Então, estudamos quais ferramentas servirão aos requisitos (não) funcionais:
 
 ![image](https://user-images.githubusercontent.com/61089745/161389515-9616f82e-1054-46e8-9a72-44205be9678a.png)
 - Oracle 11g (Sql developer): É um banco de dados popular e relacional, foi usado paracCriar PROCEDURE PL/SQL: Consulta candidatos por distância (LAT,LONG); PROCEDURE  de devolução de listas por Múltiplos  Critérios com CURSOR; População do BD com dados fictícios para teste de PERFORMANCE;
--
+
 
 ![image](https://user-images.githubusercontent.com/61089745/161389576-a377fd09-2c54-40b6-9a7e-c000dd778977.png)
 - Java (IntelliJ / Eclipse): Java é uma linguagem de programação orientada a objetos, para desenvolver o backend foi usado os ambientes Eclipse e Intellij de desenvolvimento integrado, escrito em Java. 
