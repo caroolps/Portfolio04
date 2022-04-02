@@ -104,7 +104,7 @@ Então, estudamos quais ferramentas servirão aos requisitos (não) funcionais:
 
 ### **II - TECNOLOGIAS**:iphone:
 
-
+![image](https://user-images.githubusercontent.com/61089745/161389515-9616f82e-1054-46e8-9a72-44205be9678a.png)
 - Oracle 11g (Sql developer)
 - Java (IntelliJ / Eclipse))
 - Javascript )Node-JS)
