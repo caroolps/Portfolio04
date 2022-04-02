@@ -106,11 +106,26 @@ Então, estudamos quais ferramentas servirão aos requisitos (não) funcionais:
 
 ![image](https://user-images.githubusercontent.com/61089745/161389515-9616f82e-1054-46e8-9a72-44205be9678a.png)
 - Oracle 11g (Sql developer)
-- Java (IntelliJ / Eclipse))
-- Javascript )Node-JS)
-- React (Insomnia/POSTMAN)
+
+![image](https://user-images.githubusercontent.com/61089745/161389576-a377fd09-2c54-40b6-9a7e-c000dd778977.png)
+- Java (IntelliJ / Eclipse)
+
+![image](https://user-images.githubusercontent.com/61089745/161389691-e18df3bc-2b7d-41bd-b70b-fd59e8d8b266.png)
+- Javascript (Node-JS)
+
+![image](https://user-images.githubusercontent.com/61089745/161389774-0acaa3e2-478b-444f-aeba-2f6ad4fec469.png)
+- React 
+
+![image](https://user-images.githubusercontent.com/61089745/161389788-7f4c74dd-fa4b-410a-9e51-376cf8c33817.png)
+- Insomnia/POSTMAN
+
+![image](https://user-images.githubusercontent.com/61089745/161389814-314472c1-6046-4348-93ff-c5f1781d0f82.png)
 - Git (GitLab)
+
+![image](https://user-images.githubusercontent.com/61089745/161389851-2c62d470-bb85-479e-9ac2-67c9346a3ee5.png)
 - OBS Studio / Kdenlive
+
+![image](https://user-images.githubusercontent.com/61089745/161389881-fda70645-5197-4c2d-9309-9537b2537a68.png)
 - API Google Maps
 
 ### **III - CONTRIBUIÇÕES INDIVIDUAIS**:bow:
