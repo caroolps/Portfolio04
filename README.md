@@ -121,7 +121,7 @@ Então, estudamos quais ferramentas servirão aos requisitos (não) funcionais:
 
 
 ![image](https://user-images.githubusercontent.com/61089745/161389788-7f4c74dd-fa4b-410a-9e51-376cf8c33817.png)
-- Insomnia/POSTMAN:  é um API Client que facilita aos desenvolvedores criar, compartilhar, testar e documentar APIs.
+- Insomnia/POSTMAN: É um API Client que facilita aos desenvolvedores criar, compartilhar, testar e documentar APIs.
 
 
 ![image](https://user-images.githubusercontent.com/61089745/161389814-314472c1-6046-4348-93ff-c5f1781d0f82.png)
