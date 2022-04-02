@@ -105,28 +105,28 @@ Então, estudamos quais ferramentas servirão aos requisitos (não) funcionais:
 ### **II - TECNOLOGIAS**:iphone:
 
 ![image](https://user-images.githubusercontent.com/61089745/161389515-9616f82e-1054-46e8-9a72-44205be9678a.png)
-- Oracle 11g (Sql developer)
+- Oracle 11g (Sql developer): É um banco de dados popular e relacional, foi usado paracCriar PROCEDURE PL/SQL: Consulta candidatos por distância (LAT,LONG); PROCEDURE  de devolução de listas por Múltiplos  Critérios com CURSOR; População do BD com dados fictícios para teste de PERFORMANCE;
 
 ![image](https://user-images.githubusercontent.com/61089745/161389576-a377fd09-2c54-40b6-9a7e-c000dd778977.png)
-- Java (IntelliJ / Eclipse)
+- Java (IntelliJ / Eclipse): Java é uma linguagem de programação orientada a objetos, para desenvolver o backend foi usado os ambientes Eclipse e Intellij de desenvolvimento integrado, escrito em Java. 
 
 ![image](https://user-images.githubusercontent.com/61089745/161389691-e18df3bc-2b7d-41bd-b70b-fd59e8d8b266.png)
-- Javascript (Node-JS)
+- Javascript (Node-JS): JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma. Juntamente com HTML e CSS.
 
 ![image](https://user-images.githubusercontent.com/61089745/161389774-0acaa3e2-478b-444f-aeba-2f6ad4fec469.png)
-- React 
+- React: O React é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web.
 
 ![image](https://user-images.githubusercontent.com/61089745/161389788-7f4c74dd-fa4b-410a-9e51-376cf8c33817.png)
-- Insomnia/POSTMAN
+- Insomnia/POSTMAN:  é um API Client que facilita aos desenvolvedores criar, compartilhar, testar e documentar APIs.
 
 ![image](https://user-images.githubusercontent.com/61089745/161389814-314472c1-6046-4348-93ff-c5f1781d0f82.png)
-- Git (GitLab)
+- Git (GitLab): O GitLab é um gerenciador de repositório de software baseado em git, com suporte a Wiki, gerenciamento de tarefas e CI/CD.
 
 ![image](https://user-images.githubusercontent.com/61089745/161389851-2c62d470-bb85-479e-9ac2-67c9346a3ee5.png)
-- OBS Studio / Kdenlive
+- OBS Studio / Kdenlive: É um programa de streaming e gravação gratuito.
 
 ![image](https://user-images.githubusercontent.com/61089745/161389881-fda70645-5197-4c2d-9309-9537b2537a68.png)
-- API Google Maps
+- API Google Maps: É um serviço público e gratuito que qualquer pessoa pode usar em seus sites e aplicações. A API foi usada para buscar quantidade de meios de transporte necessárias ao candidato chegar ao local de trabalho.
 
 ### **III - CONTRIBUIÇÕES INDIVIDUAIS**:bow:
 
