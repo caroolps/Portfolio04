@@ -106,18 +106,17 @@ Então, estudamos quais ferramentas servirão aos requisitos (não) funcionais:
 
 ![image](https://user-images.githubusercontent.com/61089745/161389515-9616f82e-1054-46e8-9a72-44205be9678a.png)
 - Oracle 11g (Sql developer): É um banco de dados popular e relacional, foi usado paracCriar PROCEDURE PL/SQL: Consulta candidatos por distância (LAT,LONG); PROCEDURE  de devolução de listas por Múltiplos  Critérios com CURSOR; População do BD com dados fictícios para teste de PERFORMANCE;
+![image](https://user-images.githubusercontent.com/61089745/162579889-84c7541e-ae0e-437b-b990-6c8dbd0efb14.png)
 
 
 ![image](https://user-images.githubusercontent.com/61089745/161389576-a377fd09-2c54-40b6-9a7e-c000dd778977.png)
 - Java (IntelliJ / Eclipse): Java é uma linguagem de programação orientada a objetos, para desenvolver o backend foi usado os ambientes Eclipse e Intellij de desenvolvimento integrado, escrito em Java. 
+![image](https://user-images.githubusercontent.com/61089745/162579991-da2ef388-de98-4e67-80e6-e67fd83420da.png)
 
 
 ![image](https://user-images.githubusercontent.com/61089745/161389691-e18df3bc-2b7d-41bd-b70b-fd59e8d8b266.png)
-- Javascript (Node-JS): JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma. Juntamente com HTML e CSS. Usamos essa linguagem para desenvolver o frontend do projeto.
-
-
-![image](https://user-images.githubusercontent.com/61089745/161389774-0acaa3e2-478b-444f-aeba-2f6ad4fec469.png)
-- React: O React é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web. Usamos essa biblioteca para compor o frontend do projeto.
+- Javascript (Node-JS): JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma. Juntamente com HTML e CSS. Usamos essa linguagem para fazer a aplicação consumir os dados da API do Google Maps.
+![image](https://user-images.githubusercontent.com/61089745/162579708-0e210217-588c-4041-b742-fdb2a1cea274.png)
 
 
 ![image](https://user-images.githubusercontent.com/61089745/161389788-7f4c74dd-fa4b-410a-9e51-376cf8c33817.png)
@@ -134,6 +133,8 @@ Então, estudamos quais ferramentas servirão aos requisitos (não) funcionais:
 
 ![image](https://user-images.githubusercontent.com/61089745/161389881-fda70645-5197-4c2d-9309-9537b2537a68.png)
 - API Google Maps: É um serviço público e gratuito que qualquer pessoa pode usar em seus sites e aplicações. A API foi usada para buscar quantidade de meios de transporte necessárias ao candidato chegar ao local de trabalho.
+![image](https://user-images.githubusercontent.com/61089745/162579814-4ef739d0-e3b4-4f8b-bd23-2d733e106e97.png)
+
 
 ### **III - CONTRIBUIÇÕES INDIVIDUAIS**:bow:
 
