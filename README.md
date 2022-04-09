@@ -18,14 +18,14 @@ Desenvolvendo uma API que possibilita a busca de candidatos a partir de uma vaga
 #### Requisitos Funcionais:
 
 
-| Requisitos Funcionais                                                  | Código | Prioridade | Sprint |
-|------------------------------------------------------------------------|--------|------------|--------|
-| Inicializa uma API e se conecta ao/cria BD                | RF01   | 1          | 1      |
-| Executa Requisição de Terceiro | RF02   | 1          | 2      |
-| Busca candidatos x No de conduções do para chegar ao trabalho                                 | RF03   | 1          | 2      |
-| MATCH Candidato-Vaga                                                 | RF04  | 1          | 3     |
+| Requisitos Funcionais                                                  | Código |
+|------------------------------------------------------------------------|--------|
+| Inicializa uma API e se conecta ao/cria BD                | RF01   | 1          |
+| Executa Requisição de Terceiro | RF02   |
+| Busca candidatos x No de conduções do para chegar ao trabalho                                 | RF03   |
+| MATCH Candidato-Vaga                                                 | RF04  |
 | Filtra resultado da Busca | RF05  | 1          | 3      |
-| Busca x critérios de uma vaga                            | RF06   | 1          | 4      |
+| Busca x critérios de uma vaga                            | RF06   |
 
 
 #### Requisitos Não Funcionais:
@@ -113,23 +113,23 @@ Então, estudamos quais ferramentas servirão aos requisitos (não) funcionais:
 
 
 ![image](https://user-images.githubusercontent.com/61089745/161389691-e18df3bc-2b7d-41bd-b70b-fd59e8d8b266.png)
-- Javascript (Node-JS): JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma. Juntamente com HTML e CSS.
+- Javascript (Node-JS): JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma. Juntamente com HTML e CSS. Usamos essa linguagem para desenvolver o frontend do projeto.
 
 
 ![image](https://user-images.githubusercontent.com/61089745/161389774-0acaa3e2-478b-444f-aeba-2f6ad4fec469.png)
-- React: O React é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web.
+- React: O React é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web. Usamos essa biblioteca para compor o frontend do projeto.
 
 
 ![image](https://user-images.githubusercontent.com/61089745/161389788-7f4c74dd-fa4b-410a-9e51-376cf8c33817.png)
-- Insomnia/POSTMAN: É um API Client que facilita aos desenvolvedores criar, compartilhar, testar e documentar APIs.
+- Insomnia/POSTMAN: É um API Client que facilita aos desenvolvedores criar, compartilhar, testar e documentar APIs. Usamos essas API's para testar o backend com as requisições GET, POST, PUT, DELETE e o match entre os candidatos e vagas.
 
 
 ![image](https://user-images.githubusercontent.com/61089745/161389814-314472c1-6046-4348-93ff-c5f1781d0f82.png)
-- Git (GitLab): O GitLab é um gerenciador de repositório de software baseado em git, com suporte a Wiki, gerenciamento de tarefas e CI/CD.
+- Git (GitLab): O GitLab é um gerenciador de repositório de software baseado em git, com suporte a Wiki, gerenciamento de tarefas e CI/CD. Guardamos o código do projeto nesse repositório.
 
 
 ![image](https://user-images.githubusercontent.com/61089745/161389851-2c62d470-bb85-479e-9ac2-67c9346a3ee5.png)
-- OBS Studio / Kdenlive: É um programa de streaming e gravação gratuito.
+- OBS Studio / Kdenlive: É um programa de streaming e gravação gratuito. Foi gravado as telas da aplicação e apresentação usando a ferramenta OBS Studio.
 
 
 ![image](https://user-images.githubusercontent.com/61089745/161389881-fda70645-5197-4c2d-9309-9537b2537a68.png)
