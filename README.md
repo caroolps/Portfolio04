@@ -13,7 +13,7 @@
 ### **I - RESUMO DO PROJETO**:page_facing_up: 
 
 Neste quarto Projeto Integrador a FATEC trouxe o Cliente "JET SOFT" para que pudéssemos achar uma solução tecnológica para sanar e atender às necessidades do cliente.
-Desenvolvendo uma API que possibilita a busca de candidatos a partir de uma vaga, buscando uma contração veloz e assertiva. Dentre os critérios, deverão ser destaques a segurança e o desempenho da aplicação.
+Desenvolvendo uma API que possibilita a busca de candidatos a partir de uma vaga, buscando uma contratação veloz e assertiva. Dentre os critérios, deverão ser destaques a segurança e o desempenho da aplicação.
 
 #### Requisitos Funcionais:
 
@@ -101,23 +101,23 @@ Então, estudamos quais ferramentas servirão aos requisitos (não) funcionais:
 ### **II - TECNOLOGIAS**:iphone:
 
 ![image](https://user-images.githubusercontent.com/61089745/161389515-9616f82e-1054-46e8-9a72-44205be9678a.png)
-- Oracle 11g (Sql developer): É um banco de dados popular e relacional, foi usado paracCriar PROCEDURE PL/SQL: Consulta candidatos por distância (LAT,LONG); PROCEDURE  de devolução de listas por Múltiplos  Critérios com CURSOR; População do BD com dados fictícios para teste de PERFORMANCE;
+- Oracle 11g (Sql developer): É um banco de dados popular e relacional, foi usado para criar PROCEDURE PL/SQL: Consulta de candidatos por distância (LAT,LONG); PROCEDURE  de devolução de listas por Múltiplos  Critérios com CURSOR; População do BD com dados fictícios para teste de PERFORMANCE;
 ![image](https://user-images.githubusercontent.com/61089745/162579889-84c7541e-ae0e-437b-b990-6c8dbd0efb14.png)
 
 
 ![image](https://user-images.githubusercontent.com/61089745/161389576-a377fd09-2c54-40b6-9a7e-c000dd778977.png)
-- Java (IntelliJ / Eclipse): Java é uma linguagem de programação orientada a objetos, para desenvolver o backend foi usado os ambientes Eclipse e Intellij de desenvolvimento integrado, escrito em Java. 
+- Java (IntelliJ / Eclipse): Java é uma linguagem de programação orientada a objetos, para desenvolver o backend foi usado os ambientes Eclipse e Intellij para desenvolvimento integrado, escrito em Java. 
 
 ![image](https://user-images.githubusercontent.com/61089745/162579991-da2ef388-de98-4e67-80e6-e67fd83420da.png)
 
 
 ![image](https://user-images.githubusercontent.com/61089745/161389691-e18df3bc-2b7d-41bd-b70b-fd59e8d8b266.png)
-- Javascript (Node-JS): JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma. Juntamente com HTML e CSS. Usamos essa linguagem para fazer a aplicação consumir os dados da API do Google Maps.
+- Javascript (Node-JS): JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível. Foi utilizada essa linguagem para fazer a aplicação consumir os dados da API do Google Maps.
 ![image](https://user-images.githubusercontent.com/61089745/162579708-0e210217-588c-4041-b742-fdb2a1cea274.png)
 
 
 ![image](https://user-images.githubusercontent.com/61089745/161389788-7f4c74dd-fa4b-410a-9e51-376cf8c33817.png)
-- Insomnia/POSTMAN: É um API Client que facilita aos desenvolvedores criar, compartilhar, testar e documentar APIs. Usamos essas API's para testar o backend com as requisições GET, POST, PUT, DELETE e o match entre os candidatos e vagas.
+- Insomnia/POSTMAN: É uma API Client que facilita aos desenvolvedores criar, compartilhar, testar e documentar APIs. Usamos essas API's para testar o backend com as requisições GET, POST, PUT, DELETE e o match entre os candidatos e vagas.
 
 
 ![image](https://user-images.githubusercontent.com/61089745/161389814-314472c1-6046-4348-93ff-c5f1781d0f82.png)
@@ -148,11 +148,11 @@ Criei os casos de testes da entidade Language e Qualification.
 ### **IV - APRENDIZADOS EFETIVOS**:closed_book:
 
 **Hard Skills Efetivamente Desenvolvidas:**
-Aprendi um novo método de criar um projeto no backend utilizando 8 camadas (MPConConRVSC) Model, Payload, Config, Converter, Repository, Validator, Services, Controller, não conhecia essa modelagem do backend.
+Aprendi um novo método de criar um projeto no backend utilizando 8 camadas (MPConConRVSC) Model, Payload, Config, Converter, Repository, Validator, Services, Controller, não conhecia essa modelagem no backend.
 Pude retomar o meu desenvolvimento no backend pois nos últimos projetos estava focada no frontend.
 Pela primeira vez implementei camadas de testes na aplicação utilizando JUnit.
 
 **Soft Skills Efetivamente Desenvolvidas:**
-Aprendi divisão de tarefas, melhorei a comunicação para todos estarem ciente do desenvolvimentos das entidades, pude ter a experência de trabalhar em equipe e ver os colegas terem empatia por causas pessoais tive que me ausentar de algumas sprints.
+Aprendi a compartilhar e dividir task no backend, melhorei a comunicação para todos estarem ciente do desenvolvimentos das entidades, pude ter a experência de trabalhar em equipe e ver os colegas terem empatia pois tive que me ausentar de algumas sprints por causas pessoais.
 
 
