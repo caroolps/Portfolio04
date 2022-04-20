@@ -87,7 +87,7 @@ Desenvolvendo uma API que possibilita a busca de candidatos a partir de uma vaga
 
 ![image](https://user-images.githubusercontent.com/61089745/159176294-61786526-1747-4945-9dc8-e6a7b0cc23a5.png)
 
-### Inovation:
+### Inovação:
 
 Criamos o 1o BD com benchmarking no LINKEDIN, subsequentemente alterando o protagonismo para a entidade vaga (VACANCY).
 
@@ -135,12 +135,24 @@ Então, estudamos quais ferramentas servirão aos requisitos (não) funcionais:
 
 ### **III - CONTRIBUIÇÕES INDIVIDUAIS**:bow:
 
+Desenvolvi as entidades:
+- Qualification;
+- Language; 
+- Vacancy; 
+- Company; 
+No backend utilizando 8 CAMADAS (MPConConRVSC) Model, Payload, Config, Converter, Repository, Validator, Services, Controller no backend em JAVA.
+
+Criei os casos de testes da entidade Language e Qualification.
+
 
 ### **IV - APRENDIZADOS EFETIVOS**:closed_book:
 
 **Hard Skills Efetivamente Desenvolvidas:**
+Aprendi um novo método de criar um projeto no backend utilizando 8 camadas (MPConConRVSC) Model, Payload, Config, Converter, Repository, Validator, Services, Controller, não conhecia essa modelagem do backend.
+Pude retomar o meu desenvolvimento no backend pois nos últimos projetos estava focada no frontend.
+Pela primeira vez implementei camadas de testes na aplicação utilizando JUnit.
 
 **Soft Skills Efetivamente Desenvolvidas:**
-
+Aprendi divisão de tarefas, melhorei a comunicação para todos estarem ciente do desenvolvimentos das entidades, pude ter a experência de trabalhar em equipe e ver os colegas terem empatia por causas pessoais tive que me ausentar de algumas sprints.
 
 
