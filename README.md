@@ -159,11 +159,17 @@ Fiquei responsável por criar os casos de testes das entidades Language, Company
 ### **IV - APRENDIZADOS EFETIVOS**:closed_book:
 
 **Hard Skills Efetivamente Desenvolvidas:**
-Aprendi um novo método de criar um projeto no backend utilizando 8 camadas (MPConConRVSC) Model, Payload, Config, Converter, Repository, Validator, Services, Controller, não conhecia essa modelagem no backend.
+
+Mais um Projeto Integrador concluído e com isso trouxe novos aprendizados e aperfeiçoamento dos conhecimentos adquiridos durante o curso.
+Coloquei em prática um novo método de criar um projeto no backend utilizando 8 camadas (MPConConRVSC) Model, Payload, Config, Converter, Repository, Validator, Services, Controller, não conhecia essa modelagem no backend.
+
 Pude retomar o meu desenvolvimento no backend pois nos últimos projetos estava focada no frontend.
+
 Pela primeira vez implementei camadas de testes na aplicação utilizando JUnit.
 
 **Soft Skills Efetivamente Desenvolvidas:**
-Aprendi a compartilhar e dividir task no backend, melhorei a comunicação para todos estarem ciente do desenvolvimentos das entidades, pude ter a experência de trabalhar em equipe e ver os colegas terem empatia pois tive que me ausentar de algumas sprints por causas pessoais.
+
+Aprendi a compartilhar e dividir task no backend, aprendemos mais sobre a comunicação para todos estarem ciente do desenvolvimentos das sprints, colocando em prática o método scrum com Dailys, Revisão e Passagem de Conhecimento;
+Pude ter a experência em trabalhar em equipe e ver os colegas terem empatia e apoio em momentos difíceis, pois tive que me ausentar de algumas sprints por causas pessoais.
 
 
