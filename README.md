@@ -22,7 +22,7 @@ Desenvolvendo uma API que possibilita a busca de candidatos a partir de uma vaga
 |------------------------------------------------------------------------|--------|
 | Inicializa uma API e se conecta ao/cria BD                | RF01   | 1          |
 | Executa Requisição de Terceiro | RF02   |
-| Busca candidatos x No de conduções do para chegar ao trabalho                                 | RF03   |
+| Busca candidatos x Nº de conduções do para chegar ao trabalho                                 | RF03   |
 | MATCH Candidato-Vaga                                                 | RF04  |
 | Filtra resultado da Busca | RF05  | 1          | 3      |
 | Busca x critérios de uma vaga                            | RF06   |
@@ -134,13 +134,13 @@ Então, estudamos quais ferramentas servirão aos requisitos (não) funcionais:
 
 
 ### **III - CONTRIBUIÇÕES INDIVIDUAIS**:bow:
-
-Desenvolvi as entidades:
+Nesse projeto como o foco era o backend e banco de ados não era um requisito ter frontend, resolvi contribuir com a aplicação ajudando a desenvolver o backend.
+Com isso, fiquei responsável por desenvolver as entidades:
 - Qualification;
 - Language; 
 - Vacancy; 
 - Company; 
-No backend utilizando 8 CAMADAS (MPConConRVSC) Model, Payload, Config, Converter, Repository, Validator, Services, Controller no backend em JAVA.
+Utilizando as 8 CAMADAS (MPConConRVSC) Model, Payload, Config, Converter, Repository, Validator, Services, Controller no backend em JAVA.
 
 Criei os casos de testes da entidade Language e Qualification.
 
