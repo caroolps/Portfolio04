@@ -134,15 +134,26 @@ Então, estudamos quais ferramentas servirão aos requisitos (não) funcionais:
 
 
 ### **III - CONTRIBUIÇÕES INDIVIDUAIS**:bow:
-Nesse projeto como o foco era o backend e banco de ados não era um requisito ter frontend, resolvi contribuir com a aplicação ajudando a desenvolver o backend.
+Nesse projeto como o foco era o backend e banco de dados não era um requisito ter frontend na aplicação, portanto nas divisões de tasks na equipe escolhi contribuir com a aplicação ajudando a desenvolver o backend.
 Com isso, fiquei responsável por desenvolver as entidades:
 - Qualification;
-- Language; 
-- Vacancy; 
-- Company; 
-Utilizando as 8 CAMADAS (MPConConRVSC) Model, Payload, Config, Converter, Repository, Validator, Services, Controller no backend em JAVA.
 
-Criei os casos de testes da entidade Language e Qualification.
+![image](https://user-images.githubusercontent.com/61089745/164765206-570bc48e-ebb4-4071-8639-55b81b6b05e6.png)
+
+- Language; 
+
+![image](https://user-images.githubusercontent.com/61089745/164765457-72c5ac6c-121f-4616-b300-bd4bc2e97111.png)
+
+- Company;
+
+![image](https://user-images.githubusercontent.com/61089745/164765729-75257564-823f-4901-8cb2-55be55c0759c.png)
+
+Foi utilizado 7 CAMADAS (MPConConRVS) Model, Payload, Converter, Repository, Validator, Services, Controller no backend em JAVA para desenvolver as entidades mencionadas.
+
+Fiquei responsável por criar os casos de testes das entidades Language, Company e Qualification utilizando o JUnit.
+
+![image](https://user-images.githubusercontent.com/61089745/164775826-1cccd9f0-f193-4cd6-b864-38682c7a4365.png)
+
 
 
 ### **IV - APRENDIZADOS EFETIVOS**:closed_book:
