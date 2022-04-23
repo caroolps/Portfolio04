@@ -172,6 +172,7 @@ Pela primeira vez implementei camadas de testes na aplicação utilizando JUnit.
 **Soft Skills Efetivamente Desenvolvidas:**
 
 Aprendi a compartilhar e dividir task no backend, aprendemos mais sobre a comunicação para todos estarem ciente do desenvolvimentos das sprints, colocando em prática o método scrum com Dailys, Revisão e Passagem de Conhecimento;
+
 Pude ter a experência em trabalhar em equipe e ver os colegas terem empatia e apoio em momentos difíceis, pois tive que me ausentar de algumas sprints por causas pessoais.
 
 
