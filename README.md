@@ -163,7 +163,7 @@ Fiquei responsável por criar os casos de testes das entidades Language, Company
 
 Mais um Projeto Integrador concluído e com isso trouxe novos aprendizados e aperfeiçoamento dos conhecimentos adquiridos durante o curso.
 
-Neste Semestre aprendi e coloquei em prática um novo método de criar um projeto no backend utilizando 8 camadas (MPConConRVSC) Model, Payload, Config, Converter, Repository, Validator, Services, Controller, não conhecia essa modelagem no backend.
+Neste semestre aprendi e coloquei em prática um novo método de criar um projeto no backend utilizando 8 camadas (MPConConRVSC) Model, Payload, Config, Converter, Repository, Validator, Services, Controller, não conhecia essa modelagem no backend.
 
 Pude retomar o meu desenvolvimento no backend pois nos últimos projetos estava focada no frontend.
 
